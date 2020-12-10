@@ -76,7 +76,6 @@ class ModdleScraper(object):
                                'link': sub.get_attribute('href')}
             
         ModdleScraper.menu(self,lecture_dict)
-        time.sleep(4)
     
     def menu(self, lecture_dict):
         browser = self.browser
