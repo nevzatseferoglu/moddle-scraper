@@ -1,6 +1,6 @@
 
 ### Description
-- I am fed up loggin into 'moddle' page , viewing lectures via browser by hand and wrote a basic automation tool.
+- I am fed up loggin into ```moddle page``` , viewing lectures via browser by hand and wrote a basic automation tool.
 - **Note**: It is written in 1-2 hours, there might be lots of bugs, **but** it performs work. Please just smile and do not care.
 
 ### Made by
