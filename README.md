@@ -18,5 +18,5 @@
     - nevzatseferoglu@gmail.com
 
 
-![view](media/view.png)
+![view](media/view.gif)
 
